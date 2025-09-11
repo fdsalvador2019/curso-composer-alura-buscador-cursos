@@ -1,5 +1,5 @@
 {
-	"name" : "fdsalvador2019/buscador-cursos",
+	"name" : "fdsalvador2019/buscar-cursos",
 	"description" : "Projeto que busca os cursos no site da Alura",
 	"type" : "library",
 	"authors" : [{
